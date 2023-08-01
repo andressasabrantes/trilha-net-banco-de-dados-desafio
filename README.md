@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Banco de Dados
+# Trilha .NET - Banco de Dados
 www.dio.me
 
 ## Desafio de projeto
